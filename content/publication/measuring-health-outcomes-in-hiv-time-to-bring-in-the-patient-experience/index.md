@@ -8,7 +8,7 @@ authors:
   - Karolin R Krause
 doi: 10.5334/aogh.2958
 publication: "*Annals of Global Health*"
-publication_short: "*Ann Glob Health*"
+publication_short: ""
 draft: false
 featured: false
 image:
