@@ -66,9 +66,11 @@ abstract: "A major barrier to improving care effectiveness for mental health is
   standard set for adults with clinicians selecting age-appropriate measures."
 draft: false
 featured: true
+projects:
+  - development-of-an-ichom-standard-set-of-outcomes-for-child-and-youth-anxiety-depression-ocd-and-ptsd
 image:
-  filename: featured
-  focal_point: Smart
+  filename: featured.jpg
+  focal_point: SMART
   preview_only: false
 date: 2021-02-02T14:25:22.411Z
 ---
