@@ -19,9 +19,12 @@ authors:
   - Nancy Butcher
 doi: 10.1016/j.jaac.2020.07.905
 publication: "*Journal of the American Academy of Child and Adolescent Psychiatry*"
-publication_short: "*JAACAP*"
+publication_short: ""
 draft: false
 featured: false
+projects:
+  - The International Network for Research Outcomes in Adolescent Depression
+    Studies (Co-Investigator)
 image:
   filename: featured
   focal_point: Smart
