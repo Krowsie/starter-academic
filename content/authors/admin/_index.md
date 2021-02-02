@@ -22,6 +22,8 @@ interests:
 - Outcome Measurement
 - Core Outcome Sets
 - Functioning
+- Global Mental Health
+- Youth-Centred Care
 
 
 # Education to show in About widget
@@ -72,8 +74,6 @@ email: "karolin.krause.16@ucl.ac.uk"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a post-doctoral researcher, affiliated with the the Evidence Based Practice United at University College London (honorary research fellow) and the Cundill Centre for Child and Youth Depression at the Centre for Addiction and Mental Health in Toronto (contractor). My research focuses on how to strengthen outcome measurement in child mental health, with a focus on promoting the consistency and youth-centredness of measurement approaches. I was originally trained as a social scientist, and spent several years conducting impact evaluations in the UK’s international aid sector, and analysing migration and integration policies with the Organisation for Economic Co-operation and Development (OECD). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
