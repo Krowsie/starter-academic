@@ -22,6 +22,9 @@ publication: "*Journal of the American Academy of Child and Adolescent Psychiatr
 publication_short: ""
 draft: false
 featured: false
+tags:
+  - common_metrics
+categories: []
 projects:
   - The International Network for Research Outcomes in Adolescent Depression
     Studies (Co-Investigator)
@@ -29,5 +32,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: ""
 date: 2021-02-02T15:09:33.101Z
 ---
