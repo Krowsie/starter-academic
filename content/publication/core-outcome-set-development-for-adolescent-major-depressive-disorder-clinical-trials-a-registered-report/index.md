@@ -24,7 +24,6 @@ draft: false
 featured: false
 tags:
   - common metrics
-  - qualitative research
   - outcomes
 categories: []
 projects:
