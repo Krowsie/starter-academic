@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 10
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -28,6 +28,17 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: true
+    
+ filter_button:
+  - name: All
+    tag: '*'
+  - name: common metrics
+     tag: common metrics
+  - name: outcomes
+    tag: outcomes
+  - name: qualitative
+    tag: qualitative
+    
 design:
   # Choose a view for the listings:
   #   1 = List
