@@ -1,6 +1,6 @@
 ---
 title: The International Network for Research Outcomes in Adolescent Depression
-  Studies
+  Studies (Co-Investigator)
 subtitle: 2020-2022
 date: 2021-02-02T15:32:38.137Z
 draft: false
