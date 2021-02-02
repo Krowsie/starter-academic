@@ -30,7 +30,7 @@ projects:
   - The International Network for Research Outcomes in Adolescent Depression
     Studies (Co-Investigator)
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: ""
