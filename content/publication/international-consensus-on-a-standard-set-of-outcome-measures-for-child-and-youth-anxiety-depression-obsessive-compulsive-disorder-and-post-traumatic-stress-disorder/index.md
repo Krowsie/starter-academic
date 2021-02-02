@@ -5,51 +5,24 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Karolin R Krause
-  - Sophie Chung
-  - Abiodun O Adewuya
-  - Anne Marie Albano
-  - Rochelle Babins-Wagner
-  - Laura Birkinshaw
-  - Peter Brann
-  - Cathy Creswell
-  - Kathleen Delaney
-  - Bruno Falissard
-  - Christopher B Forrest
-  - Jennifer L Hudson
-  - Shin-Ichi Ishikawa
-  - Meghna Khatwani
-  - Christian Kieling
-  - Judi Krause
-  - Kanika Malik
-  - Vania Martínez
-  - Faraz Mughal
-  - Thomas H Ollendick
-  - Say How Ong
-  - George C Patton
-  - Ulrike Ravens-Sieberer
-  - Peter Szatmari
-  - Evie Thomas
-  - Lucas Walters
-  - Bryan Young
-  - Yue Zhao
+  - Karolin Rose Krause
+  - Holly Alice Bear
+  - Julian Edbrooke-Childs
   - Miranda Wolpert
 author_notes: []
-publication: In *The Lancet Psychiatry*
+publication: In *Journal of the American Academy of Child & Adolescent Psychiatry*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: "*JAACAP*"
 url_source: ""
 url_video: ""
-title: International consensus on a standard set of outcome measures for child
-  and youth anxiety, depression, obsessive-compulsive disorder, and
-  post-traumatic stress disorder
-doi: https://doi.org/10.1016/S2215-0366(20)30356-4
-featured: true
+title: What outcomes count? Outcomes measured for adolescent depression between
+  2007 and 2017
+doi: https://doi.org/10.1016/j.jaac.2018.07.893
+featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
