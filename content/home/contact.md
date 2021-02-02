@@ -5,7 +5,7 @@ headless: true
 weight: 130
 title: Contact
 subtitle: null
-active: true
+active: false
 content:
   autolink: true
   form:
@@ -18,5 +18,3 @@ design:
   columns: "2"
 ---
 ![]()
-
-karolin.krause.16@ucl.ac.uk
