@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University College London
-    year: 2012
+    year: 2020
   - course: MSc in Political Sociology
     institution: London School of Economics and Political Sciences
     year: 2013
