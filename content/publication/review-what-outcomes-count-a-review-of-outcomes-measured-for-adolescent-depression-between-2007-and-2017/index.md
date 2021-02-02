@@ -6,7 +6,7 @@ publication_types:
   - "2"
 doi: 10.1016/j.jaac.2018.07.893
 publication: "*Journal of the American Academy of Child and Adolescent Psychiatry*"
-publication_short: "*JAACAP*"
+publication_short: ""
 draft: false
 featured: false
 image:
