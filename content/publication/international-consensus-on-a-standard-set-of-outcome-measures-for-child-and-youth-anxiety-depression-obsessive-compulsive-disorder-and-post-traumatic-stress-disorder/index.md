@@ -35,7 +35,7 @@ authors:
   - Yue Zhao
   - Miranda Wolpert
 doi: 10.1016/S2215-0366(20)30356-4
-publication: "*The Lancet Psychiatry*"
+publication: "*The Lancet Psychiatry*, Vol.8(1), pp.76-86"
 abstract: "A major barrier to improving care effectiveness for mental health is
   a lack of consensus on outcomes measurement. The International Consortium for
   Health Outcomes Measurement (ICHOM) has already developed a consensus-based
