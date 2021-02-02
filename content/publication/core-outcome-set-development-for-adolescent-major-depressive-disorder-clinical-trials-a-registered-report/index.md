@@ -21,7 +21,7 @@ doi: 10.1016/j.jaac.2020.07.905
 publication: "*Journal of the American Academy of Child and Adolescent Psychiatry*"
 publication_short: ""
 draft: false
-featured: true
+featured: false
 tags:
   - common metrics
   - outcomes
@@ -29,9 +29,9 @@ categories: []
 projects:
   - the-international-network-for-research-outcomes-in-adolescent-depression-studies
 image:
-  filename: featured.jpg
+  filename: ""
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: ""
 date: 2021-02-02T15:09:33.101Z
 ---
