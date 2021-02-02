@@ -32,7 +32,7 @@ projects:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: ""
 date: 2021-02-02T15:09:33.101Z
 ---
