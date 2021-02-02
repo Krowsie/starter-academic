@@ -18,7 +18,7 @@ authors:
   - Martin Offringa
   - Nancy Butcher
 doi: 10.1016/j.jaac.2020.07.905
-publication: "*Journal of the American Academy of Child and Adolescent Psychiatry*"
+publication: "*Journal of the American Academy of Child and Adolescent Psychiatry*, Vol.59(1), p.1297-1298" 
 publication_short: ""
 draft: false
 featured: false
