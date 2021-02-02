@@ -21,7 +21,7 @@ doi: 10.1016/j.jaac.2020.07.905
 publication: "*Journal of the American Academy of Child and Adolescent Psychiatry*"
 publication_short: ""
 draft: false
-featured: false
+featured: true
 tags:
   - common metrics
   - outcomes
