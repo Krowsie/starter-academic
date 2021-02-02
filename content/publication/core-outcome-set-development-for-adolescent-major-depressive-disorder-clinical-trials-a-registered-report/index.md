@@ -23,7 +23,9 @@ publication_short: ""
 draft: false
 featured: false
 tags:
-  - common metrics; qualitative research; outcomes
+  - common metrics
+  - qualitative research
+  - outcomes
 categories: []
 projects:
   - The International Network for Research Outcomes in Adolescent Depression
