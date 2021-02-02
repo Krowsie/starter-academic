@@ -27,8 +27,7 @@ tags:
   - outcomes
 categories: []
 projects:
-  - The International Network for Research Outcomes in Adolescent Depression
-    Studies (Co-Investigator)
+  - the-international-network-for-research-outcomes-in-adolescent-depression-studies
 image:
   filename: featured.jpg
   focal_point: Smart
