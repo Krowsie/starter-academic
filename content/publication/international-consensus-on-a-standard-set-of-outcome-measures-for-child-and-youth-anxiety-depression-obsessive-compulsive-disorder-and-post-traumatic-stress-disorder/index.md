@@ -5,35 +5,34 @@ title: International consensus on a standard set of outcome measures for child
 publication_types:
   - "2"
 authors:
-  - Krause
-  - Karolin R. Chung
-  - Sophie Adewuya
-  - Abiodun O. Albano
-  - Anne Marie Babins-Wagner
-  - Rochelle Birkinshaw
-  - Laura Brann
-  - Peter Creswell
-  - Cathy Delaney
-  - Kathleen Falissard
-  - Bruno Forrest
-  - Christopher B. Hudson
-  - Jennifer L. Ishikawa
-  - Shin ichi Khatwani
-  - Meghna Kieling
-  - Christian Krause
-  - Judi Malik
-  - Kanika Martínez
-  - Vania Mughal
-  - Faraz Ollendick
-  - Thomas H. Ong
-  - Say How Patton
-  - George C. Ravens-Sieberer
-  - Ulrike Szatmari
-  - Peter Thomas
-  - Evie Walters
-  - Lucas Young
-  - Bryan Zhao
-  - Yue Wolpert
+  - Karolin R. Krause
+  - Sophie Chung
+  - Abiodun O. Adewuya
+  - Anne Marie  Albano 
+  - Rochelle Babins-Wagner 
+  - Laura Birkinshaw
+  - Peter Brann 
+  - Cathy Creswell 
+  - Kathleen Delaney 
+  - Bruno Falissard 
+  - Christopher B. Forrest 
+  - Jennifer L. B. Hudson
+  - Shin ichi  Ishikawa 
+  - Meghna Khatwani 
+  - Christian Kieling 
+  - Judi Krause 
+  - Kanika Malik 
+  - Vania Martínez 
+  - Faraz Mughal 
+  - Thomas H. Ollendick
+  - Say How Ong 
+  - George C. Patton 
+  - Ulrike Ravens-Sieberer 
+  - Peter Szatmari 
+  - Evie Thomas 
+  - Lucas Walters 
+  - Bryan Young 
+  - Yue Zhao
   - Miranda Wolpert
 doi: 10.1016/S2215-0366(20)30356-4
 publication: "*The Lancet Psychiatry*"
