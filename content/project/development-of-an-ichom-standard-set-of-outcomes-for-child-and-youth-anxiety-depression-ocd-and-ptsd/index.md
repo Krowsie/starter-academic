@@ -1,7 +1,7 @@
 ---
-title: Development of an ICHOM Standard Set of Outcomes for Child and Youth
+title: Development of an ICHOM Standard Set of Outcomes for Child and Youth (Research Fellow)
   Anxiety, Depression, OCD, and PTSD
-subtitle: (Research Fellow)
+subtitle: false
 date: 2021-02-02T15:28:34.646Z
 draft: false
 featured: true
