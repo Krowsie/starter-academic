@@ -7,7 +7,7 @@ authors:
   - Y-Ling Chi
   - Karolin R Krause
 doi: 10.5334/aogh.2958
-publication: "*Annals of Global Health*, Vol.87(1), p.2"
+publication: "*Annals of Global Health, 87*(1), 2"
 publication_short: ""
 draft: false
 featured: false
