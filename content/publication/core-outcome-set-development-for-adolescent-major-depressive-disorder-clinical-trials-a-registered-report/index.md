@@ -23,7 +23,7 @@ publication_short: ""
 draft: false
 featured: false
 tags:
-  - common_metrics
+  - common metrics
 categories: []
 projects:
   - The International Network for Research Outcomes in Adolescent Depression
