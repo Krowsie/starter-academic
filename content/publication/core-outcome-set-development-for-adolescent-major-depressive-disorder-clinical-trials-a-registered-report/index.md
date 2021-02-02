@@ -33,5 +33,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: ""
-date: 2021-02-02T15:09:33.101Z
+date: 2020-11-01T15:09:33.101Z
 ---
