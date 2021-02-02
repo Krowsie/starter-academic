@@ -11,9 +11,12 @@ authors:
   - M. Wolpert
 doi: https://doi.org/10.1007/s00787-020-01648-8
 publication: "*European Child & Adolescent Psychiatry*"
-publication_short: "*ECAP*"
+publication_short: ""
 draft: false
 featured: false
+tags:
+  - outcomes
+  - qualitative research
 image:
   filename: featured
   focal_point: Smart
