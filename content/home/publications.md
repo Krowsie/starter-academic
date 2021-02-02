@@ -29,6 +29,7 @@ content:
     author: ''
     exclude_featured: true
     
+ filter_default: 0
  filter_button:
   - name: All
     tag: '*'
