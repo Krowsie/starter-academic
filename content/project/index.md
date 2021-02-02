@@ -1,5 +1,5 @@
 ---
-title: project
+title: projects
 cms_exclude: true
 
 # View.
