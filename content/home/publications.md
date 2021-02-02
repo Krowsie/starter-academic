@@ -28,18 +28,7 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: true
-    
- filter_default: 0
- filter_button:
-  - name: All
-    tag: '*'
-  - name: common metrics
-     tag: common metrics
-  - name: outcomes
-    tag: outcomes
-  - name: qualitative
-    tag: qualitative
-    
+      
 design:
   # Choose a view for the listings:
   #   1 = List
