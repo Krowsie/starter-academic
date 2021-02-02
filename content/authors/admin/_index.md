@@ -50,8 +50,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/krausekarolin
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: `google-scholar`
+  icon_pack: ài'
   link: https://scholar.google.co.uk/citations?user=5N_zLWkAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
