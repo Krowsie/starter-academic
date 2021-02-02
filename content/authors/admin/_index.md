@@ -51,7 +51,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/krausekarolin
 - icon: `google-scholar`
-  icon_pack: ài'
+  icon_pack: `ai'
   link: https://scholar.google.co.uk/citations?user=5N_zLWkAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
