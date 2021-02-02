@@ -28,7 +28,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-date: 2021-02-02T12:16:29.754Z
+date: 2019
 url_slides: ""
 publishDate: 2019
 url_poster: ""
