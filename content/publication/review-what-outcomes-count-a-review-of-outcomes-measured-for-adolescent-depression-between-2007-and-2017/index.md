@@ -1,7 +1,11 @@
 ---
 title: "Review: What Outcomes Count? A Review of Outcomes Measured for
   Adolescent Depression Between 2007 and 2017"
-subtitle: Krause, Karolin Rose Bear, Holly Alice Edbrooke-Childs, Julian Wolpert, Miranda
+authors: 
+- Karolin Rose Krause
+- Holly Alice Bear
+- Julian Edbrooke-Childs
+- Miranda Wolpert
 publication_types:
   - "2"
 doi: 10.1016/j.jaac.2018.07.893
