@@ -10,7 +10,7 @@ authors:
   - Karolin Rose Krause
   - Miranda Wolpert
 doi: https://doi.org/10.1016/j.jaac.2019.12.002
-publication: "*Journal of the American Academy of Child & Adolescent Psychiatry, 59*(7):810-841"
+publication: "*Journal of the American Academy of Child & Adolescent Psychiatry, 59*(7), 810-841"
 publication_short: ""
 draft: false
 featured: false
