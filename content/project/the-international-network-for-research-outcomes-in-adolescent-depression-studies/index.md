@@ -10,4 +10,14 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/inroadscos
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
