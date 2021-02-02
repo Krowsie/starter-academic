@@ -34,7 +34,7 @@ authors:
   - Lucas Young
   - Bryan Zhao
   - Yue Wolpert
-  - Miranda
+  - Miranda Wolpert
 doi: 10.1016/S2215-0366(20)30356-4
 publication: "*The Lancet Psychiatry*"
 abstract: "A major barrier to improving care effectiveness for mental health is
