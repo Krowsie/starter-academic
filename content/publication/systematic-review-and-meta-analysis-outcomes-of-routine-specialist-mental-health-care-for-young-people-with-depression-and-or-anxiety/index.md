@@ -11,7 +11,7 @@ authors:
   - Miranda Wolpert
 doi: https://doi.org/10.1016/j.jaac.2019.12.002
 publication: "*Journal of the American Academy of Child & Adolescent Psychiatry*"
-publication_short: "*JAACAP*"
+publication_short: ""
 draft: false
 featured: false
 image:
