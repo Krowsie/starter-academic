@@ -13,11 +13,6 @@
  # url = "#posts"
  # weight = 20
  
- [[main]]
-  name = "Experience"
-  url = "#experience.md"
-  weight = 30
-
 [[main]]
  name = "Projects"
  url = "#projects"
