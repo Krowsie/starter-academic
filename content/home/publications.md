@@ -3,7 +3,7 @@ widget: pages
 widget_id: other publications
 headless: true
 weight: 80
-title: Other Publications
+title: Other Peer-Reviewed Publications
 subtitle: ""
 content:
   page_type: publication
