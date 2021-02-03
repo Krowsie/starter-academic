@@ -27,7 +27,7 @@ experience:
     company_url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
     location: Toronto, ON
     date_start: '2020-04-01'
-  #  date_end: ''
+    date_end: ''
   #  description: |2-
   #      Responsibilities include:
   #      * Analysing
@@ -40,7 +40,7 @@ experience:
     location: London, UK
     date_start: '2018-10-01'
     date_end: '2020-03-31'
-    # description: Taught electronic engineering and researched semiconductor physics.
+ # description: Taught electronic engineering and researched semiconductor physics.
     
     - title: Evaluation Consultant
     company: Tetra Tech International Development
@@ -48,5 +48,5 @@ experience:
     location: London, UK
     date_start: '2012-12-01'
     date_end: '2016-09-30'
-    # description: Taught electronic engineering and researched semiconductor physics.
+ # description: Taught electronic engineering and researched semiconductor physics.
 ---
