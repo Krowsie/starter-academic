@@ -57,7 +57,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/karolin-krause-81757838/?originalSubdomain=fr
 - icon: publons
-  icon_pack: fab
+  icon_pack: ai
   link: https://publons.com/researcher/4013789/karolin-rose-krause/
 - icon: orcid
   icon_pack: fab
