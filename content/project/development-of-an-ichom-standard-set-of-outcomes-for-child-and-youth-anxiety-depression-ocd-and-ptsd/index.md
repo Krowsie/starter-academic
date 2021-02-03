@@ -6,6 +6,15 @@ draft: false
 featured: true
 tags: []
 external_link: https://www.ichom.org/portfolio/anxiety-depression-ocd-and-ptsd-in-children-and-young-people/
+
+links:
+  - url: https://www.ichom.org/wp-content/uploads/2020/03/PDA_Flyer.pdf
+    name: Standard Set Flyer
+  - url: https://www.ichom.org/wp-content/uploads/2020/03/PDA_ReferenceGuide_200318-1.pdf
+    name: Implementation Guide
+  - url: https://doi.org/10.1016/S2215-0366(20)30356-4
+    name: Publication
+
 image:
   filename: https://www.ichom.org/portfolio/anxiety-depression-ocd-and-ptsd-in-children-and-young-people/
   focal_point: Smart
