@@ -22,4 +22,16 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-10-01T15:07:00.000Z
+
+links:
+- icon: open-access
+  icon_pack: ai
+  name: Open Access
+  url: https://link.springer.com/article/10.1007/s00787-020-01648-8
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
+---
+
