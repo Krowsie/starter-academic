@@ -3,7 +3,7 @@ title: "Thriving in the face of severe adversity: Understanding and fostering
   resilience in children affected by war and displacement"
 publication_types:
   - "6"
-authors: Karolin Krause & Evelyn Sharples
+authors: "Karolin Krause & Evelyn Sharples"
 publication: "Elena Fiddian-Qasmiyeh (Ed): *Refuge in a Moving World: Tracing Refugee and Migrant Journeys
   Across Disciplines*, UCL Press, London, 306-323"
 draft: false
