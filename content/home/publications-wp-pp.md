@@ -3,12 +3,20 @@ widget: pages
 widget_id: publications-wp-pp
 headless: true
 weight: 90
-title: Preprints & Working Papers
+title: Other Publications
+subtitle: Preprints & Working Papers
 active: true
+content:
+  page_type: publication
+  count: 10
+  offset: 0
+  order: desc
+  filters:
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: true
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
-    color: "#ffffff"
----
+  view: 4
+--
