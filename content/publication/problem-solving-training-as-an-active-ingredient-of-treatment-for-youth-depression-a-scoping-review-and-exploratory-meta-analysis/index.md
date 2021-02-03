@@ -24,4 +24,16 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-02-02T15:13:23.019Z
+
+
+links:
+- icon: psyarxiv
+  icon_pack: ai
+  name: Preprint
+  url: https://psyarxiv.com/d6jyp/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
 ---
