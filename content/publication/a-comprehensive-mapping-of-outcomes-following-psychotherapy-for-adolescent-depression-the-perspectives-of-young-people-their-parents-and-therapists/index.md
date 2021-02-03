@@ -5,10 +5,10 @@ title: "A comprehensive mapping of outcomes following psychotherapy for
 publication_types:
   - "2"
 authors:
-  - K. Krause
-  - N. Midgley
-  - J. Edbrooke-Childs
-  - M. Wolpert
+  - Karolin Krause
+  - Nick Midgley
+  - Julian Edbrooke-Childs
+  - Miranda Wolpert
 doi: https://doi.org/10.1007/s00787-020-01648-8
 publication: "*European Child & Adolescent Psychiatry*"
 publication_short: ""
