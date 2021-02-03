@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Karolin Krause
   - Evelyn Sharples
-publication: "Refuge in a Moving World: Tracing refugee and migrant journeys
-  across disciplines"
+publication: "Elena Fiddian-Qasmiyeh (Ed): *Refuge in a Moving World: Tracing refugee and migrant journeys
+  across disciplines*, UCL Press"
 draft: false
 featured: false
 image:
