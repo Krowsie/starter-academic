@@ -56,6 +56,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/karolin-krause-81757838/?originalSubdomain=fr
+- icon: publons
+  icon_pack: fab
+  link: https://publons.com/researcher/4013789/karolin-rose-krause/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3914-7272
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
