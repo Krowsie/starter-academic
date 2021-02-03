@@ -19,5 +19,15 @@ image:
   preview_only: false
 date: 2019-01-01T14:33:58.942Z
 
-https://www.jaacap.org/article/S0890-8567(18)31899-9/fulltext
+links:
+- icon: open-access
+  icon_pack: ai
+  name: Open Access
+  url: https://www.jaacap.org/article/S0890-8567(18)31899-9/fulltext
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
+---
+
