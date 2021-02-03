@@ -9,7 +9,7 @@ authors:
   - Yassine Khoudja
   - Karolin Krause
 doi: 10.1080/1369183X.2013.833705
-publication: "*Journal of Ethnic and Migration Studies, (39)*"10, 1679-1697
+publication: "*Journal of Ethnic and Migration Studies, 39*(10), 1679-1697"
 draft: false
 featured: false
 image:
