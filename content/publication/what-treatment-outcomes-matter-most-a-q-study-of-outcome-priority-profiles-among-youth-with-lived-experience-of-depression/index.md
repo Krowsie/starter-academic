@@ -11,7 +11,7 @@ authors:
   - Miranda Wolpert
 doi: https://doi.org/10.1101/2020.10.12.20210468
 publication: medRxiv
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
