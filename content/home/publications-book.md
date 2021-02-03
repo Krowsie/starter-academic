@@ -14,7 +14,7 @@ content:
   filters:
     tag: ""
     category: ""
-    publication_type: 6
+    publication_type: "6"
     author: ""
     exclude_featured: true
 design:
