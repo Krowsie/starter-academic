@@ -16,11 +16,11 @@ links:
   name: Follow
   url: https://twitter.com/inroadscos
   
-- url: Study Protocol
-  name: https://doi.org/10.1016/j.jaac.2020.07.905
+- url: https://doi.org/10.1016/j.jaac.2020.07.905
+  name: Study Protocol
   
-- url: Scoping Review
-  name: https://doi.org/10.1016/j.jclinepi.2020.06.013
+- url: https://doi.org/10.1016/j.jclinepi.2020.06.013
+  name: Scoping Review
   
 url_code: ""
 url_pdf: ""
