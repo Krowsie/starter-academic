@@ -4,7 +4,7 @@ title: "Problem-Solving Training as an Active Ingredient of Treatment for Youth
 publication_types:
   - "3"
 authors:
-  - Karolin R Krause
+  - Karolin Rose Krause
   - Darren Courtney
   - Benjamin WC Chan
   - Sarah Bonato
@@ -17,7 +17,7 @@ authors:
   - Peter Szatmari
 doi: 10.31234/osf.io/d6jyp
 publication: PsyArXiv
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
