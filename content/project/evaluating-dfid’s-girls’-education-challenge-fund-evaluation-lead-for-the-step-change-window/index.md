@@ -1,6 +1,5 @@
 ---
-title: Evaluating DFID’s Girls’ Education Challenge Fund (Evaluation Lead for
-  the Step Change Window)
+title: Evaluating DFID’s Girls’ Education Challenge Fund
 date: 2016-01-09T11:16:00.000Z
 draft: false
 featured: false
