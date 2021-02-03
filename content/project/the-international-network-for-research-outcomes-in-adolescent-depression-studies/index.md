@@ -15,6 +15,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/inroadscos
+  
+- url: Study Protocol
+  name: https://doi.org/10.1016/j.jaac.2020.07.905
+  
+- url: Scoping Review
+  name: https://doi.org/10.1016/j.jclinepi.2020.06.013
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
