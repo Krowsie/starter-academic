@@ -1,5 +1,5 @@
 ---
-title: Monitoring and Evaluation of the SPRING Accelerator (2014-2019)
+title: Monitoring and Evaluation of the SPRING Accelerator (2014-19)
 date: 2019-02-03T11:33:00.000Z
 draft: false
 featured: false
