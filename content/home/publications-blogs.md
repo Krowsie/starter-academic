@@ -2,7 +2,7 @@
 widget: pages
 widget_id: publications-blogs.md
 headless: true
-weight: 95
+weight: 60
 title: Blogs
 active: true
 design:
