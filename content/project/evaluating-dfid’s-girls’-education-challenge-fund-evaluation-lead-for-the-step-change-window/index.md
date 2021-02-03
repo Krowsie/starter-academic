@@ -1,5 +1,5 @@
 ---
-title: Evaluating DFID’s Girls’ Education Challenge Fund (2012-2016)
+title: Evaluating DFID’s Girls’ Education Challenge Fund (2012-16)
 date: 2016-01-09T11:16:00.000Z
 draft: false
 featured: false
