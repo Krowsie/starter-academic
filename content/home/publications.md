@@ -2,7 +2,7 @@
 widget: pages
 widget_id: other publications
 headless: true
-weight: 80
+weight: 55
 title: Other Publications
 subtitle: Peer-reviewed Journal Articles
 content:
