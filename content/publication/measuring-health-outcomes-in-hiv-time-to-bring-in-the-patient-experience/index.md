@@ -9,7 +9,7 @@ authors:
 doi: 10.5334/aogh.2958
 url_custom: 
  - name: Open Access
- - link: "https://annalsofglobalhealth.org/articles/10.5334/aogh.2958/"
+ - link: https://annalsofglobalhealth.org/articles/10.5334/aogh.2958/
 publication: "*Annals of Global Health, 87*(1), 2"
 publication_short: ""
 draft: false
