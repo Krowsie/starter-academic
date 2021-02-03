@@ -2,7 +2,7 @@
 widget: pages
 widget_id: publications-wp-pp
 headless: true
-weight: 90
+weight: 56
 title: Other Publications
 subtitle: Preprints & Working Papers
 active: true
