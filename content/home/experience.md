@@ -37,7 +37,7 @@ experience:
     date_end: '2020-03-31'
    
   - title: Evaluation Consultant
-    company: Tetra Tech International Development
+    company: Tetra Tech International Development (formerly Coffey International)
     company_url: https://intdev.tetratechasiapacific.com/
     location: London, UK
     date_start: '2012-12-01'
