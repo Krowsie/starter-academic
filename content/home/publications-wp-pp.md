@@ -19,3 +19,4 @@ content:
     exclude_featured: true
 design:
   view: 4
+---
