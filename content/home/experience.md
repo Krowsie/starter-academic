@@ -44,8 +44,7 @@ experience:
     date_end: '2016-09-30'
     
   - title: Policy Analysis Consultant 
-    company: International Migration Division, Organisation for Economic
-    Co-operation and Development
+    company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
     company_url: https://www.oecd.org/migration/
     location: Paris, France
     date_start: '2010-10-01'
