@@ -18,4 +18,14 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-10-12T15:14:33.976Z
+
+links:
+- name: Preprint
+  url: https://www.medrxiv.org/content/10.1101/2020.10.12.20210468v1
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+---
 ---
