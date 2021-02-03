@@ -4,7 +4,7 @@ widget_id: publications-wp-pp
 headless: true
 weight: 90
 title: "yes"
-  title_color: "#ffffff"
+  - color: "#ffffff"
 subtitle: "Preprints & Working Papers"
 active: true
 design:
