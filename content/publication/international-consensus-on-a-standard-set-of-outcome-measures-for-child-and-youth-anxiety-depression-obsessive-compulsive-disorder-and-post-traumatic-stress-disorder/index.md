@@ -16,7 +16,7 @@ authors:
   - Kathleen Delaney 
   - Bruno Falissard 
   - Christopher B. Forrest 
-  - Jennifer L. B. Hudson
+  - Jennifer L. Hudson
   - Shin ichi  Ishikawa 
   - Meghna Khatwani 
   - Christian Kieling 
