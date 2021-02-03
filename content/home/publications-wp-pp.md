@@ -3,6 +3,7 @@ widget: pages
 widget_id: publications-wp-pp
 headless: true
 weight: 90
+Title: ""
 subtitle: Preprints & Working Papers
 active: true
 design:
