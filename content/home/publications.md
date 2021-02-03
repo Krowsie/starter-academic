@@ -4,7 +4,7 @@ widget_id: other publications
 headless: true
 weight: 80
 title: Other Publications
-subtitle: Peer-reviewed journal articles
+subtitle: Peer-reviewed Journal Articles
 content:
   page_type: publication
   count: 10
