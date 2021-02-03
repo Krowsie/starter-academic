@@ -4,7 +4,7 @@ widget_id: other publications
 headless: true
 weight: 90
 title: Other Publications
-subtitle: Peer-reviewed publications
+subtitle: ""
 content:
   page_type: publication
   count: 10
