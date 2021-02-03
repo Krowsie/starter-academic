@@ -19,4 +19,15 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-07-01T15:05:00.667Z
+
+links:
+- icon: open-access
+  icon_pack: ai
+  name: Open Access
+  url: https://jaacap.org/article/S0890-8567(19)32234-8/fulltext
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
 ---
