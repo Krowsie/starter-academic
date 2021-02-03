@@ -9,7 +9,7 @@ active: true
 design:
   columns: "2"
   title:
-    color: "#ffffff"
+    text_color: "#ffffff"
   background:
     text_color_light: false
     image_darken: 0
