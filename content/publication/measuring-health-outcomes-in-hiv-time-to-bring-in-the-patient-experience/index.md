@@ -11,6 +11,8 @@ publication: "*Annals of Global Health, 87*(1), 2"
 publication_short: ""
 draft: false
 featured: false
+tags:
+  - Open Access
 image:
   filename: featured
   focal_point: Smart
