@@ -7,7 +7,7 @@ authors:
   - Karolin Krause
   - Evelyn Sharples
 publication: "Elena Fiddian-Qasmiyeh (Ed): *Refuge in a Moving World: Tracing refugee and migrant journeys
-  across disciplines*, UCL Press"
+  across disciplines*, UCL Press, London, 306-323"
 draft: false
 featured: false
 image:
