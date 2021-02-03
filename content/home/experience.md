@@ -28,25 +28,19 @@ experience:
     location: Toronto, ON
     date_start: '2020-04-01'
     date_end: ''
-  #  description: |2-
-  #      Responsibilities include:
-  #      * Analysing
-  #      * Modelling
-  #      * Deploying
-        
+
   - title: Research Fellow (Contractor)
     company: International Consortium for Health Outcomes Measurement (ICHOM)
     company_url: https://www.ichom.org/
     location: London, UK
     date_start: '2018-10-01'
     date_end: '2020-03-31'
- # description: Taught electronic engineering and researched semiconductor physics.
-    
-    - title: Evaluation Consultant
+   
+  - title: Evaluation Consultant
     company: Tetra Tech International Development
     company_url: https://intdev.tetratechasiapacific.com/
     location: London, UK
     date_start: '2012-12-01'
     date_end: '2016-09-30'
- # description: Taught electronic engineering and researched semiconductor physics.
+
 ---
