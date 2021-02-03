@@ -79,4 +79,4 @@ highlight_name: true
 
 I am a post-doctoral researcher, affiliated with the the Evidence Based Practice Unit at University College London (honorary research fellow) and the Cundill Centre for Child and Youth Depression at the Centre for Addiction and Mental Health in Toronto (contractor). My research focuses on how to strengthen outcome measurement in child mental health, with a focus on promoting the consistency and youth-centredness of measurement approaches. I was originally trained as a social scientist, and spent several years conducting impact evaluations in the UK’s international aid sector, and analysing migration and integration policies with the Organisation for Economic Co-operation and Development (OECD). 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
