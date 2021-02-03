@@ -18,4 +18,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2019-01-01T14:33:58.942Z
+
+https://www.jaacap.org/article/S0890-8567(18)31899-9/fulltext
 ---
