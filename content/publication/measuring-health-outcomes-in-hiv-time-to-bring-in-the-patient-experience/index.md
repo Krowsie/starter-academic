@@ -18,4 +18,15 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-01-05T15:11:41.771Z
+
+links:
+- icon: open-access
+  icon_pack: ai
+  name: Open Access
+  url: https://annalsofglobalhealth.org/articles/10.5334/aogh.2958/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
 ---
