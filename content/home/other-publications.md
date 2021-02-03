@@ -1,11 +1,11 @@
 ---
 widget: pages
-widget_id: other publications
+widget_id: publications-wp-pp
 headless: true
 weight: 90
-title: Other Publications
-subtitle: ""
-active: false
+title: ""
+subtitle: Preprints & Working Papers
+active: true
 content:
   page_type: publication
   count: 10
@@ -19,4 +19,7 @@ content:
     exclude_featured: true
 design:
   view: 4
+  columns: "2"
+  background:
+    color: "#ffffff"
 ---
