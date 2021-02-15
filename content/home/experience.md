@@ -42,7 +42,7 @@ experience:
     description: |2-
         Key projects:
       
-       * Integration outcomes of children of migrants
+       * Socio-economic outcomes of the children of migrants
        * Ethnic discrimination
        * Labour market integtation of migrants in Austria & Switzerland
        * Labour migration management in Germany
