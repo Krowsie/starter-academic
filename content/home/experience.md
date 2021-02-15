@@ -16,7 +16,7 @@ experience:
     location: London, UK
     date_start: 2018-10-01
     date_end: 2020-03-31
-    description: Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
+    description: * Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
     
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
@@ -29,7 +29,7 @@ experience:
         
         * Girls' Education Challeng Fund (DFID: Estern Africa & Southern Asia)
         * SPRING Accelerator (DFID, USAID, AUSAID: Estern Africa & Southern Asia)
-        * Partnership on Health Systems Strengthening for Malaria Prevention and Control (Comic Relief & GSK: Africa)
+        * Health Systems Strengthening for Malaria Prevention and Control (Comic Relief & GSK: Africa)
         * Monitoring, Evaluation and Learning Support to Grantees (Comic Relief: Africa) 
         
   - title: Policy Analysis Consultant
