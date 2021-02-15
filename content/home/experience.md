@@ -31,6 +31,7 @@ experience:
         * SPRING Accelerator (DFID, USAID, AUSAID: Estern Africa & Southern Asia)
         * Health Systems Strengthening for Malaria Prevention and Control (Comic Relief & GSK: Africa)
         * Monitoring, Evaluation and Learning Support to Grantees (Comic Relief: Africa) 
+        * Growth and Employment in States Programme (DFID, World Bank: Nigeria)
         
   - title: Policy Analysis Consultant
     company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
