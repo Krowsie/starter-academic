@@ -42,9 +42,11 @@ experience:
     description: |2-
         Key projects:
       
-       * Labour market integtation of migrants in Switzerland
-       * Labour market integration of migrants in Austria
+       * Integration outcomes of children of migrants
+       * Ethnic discrimination
+       * Labour market integtation of migrants in Austria & Switzerland
        * Labour migration management in Germany
+       
        
 widget_id: experience
 headless: true
