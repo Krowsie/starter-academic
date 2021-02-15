@@ -17,30 +17,34 @@ experience:
     date_start: 2018-10-01
     date_end: 2020-03-31
     description: Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
+    
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
     company_url: https://intdev.tetratechasiapacific.com/
     location: London, UK
     date_start: 2012-12-01
     date_end: 2016-09-30
-        description: |2-
+    description: |2-
         Key projects:
+        
         * Girls' Education Challeng Fund (DFID: Estern Africa & Southern Asia)
         * SPRING Accelerator (DFID, USAID, AUSAID: Estern Africa & Southern Asia)
         * Partnership on Health Systems Strengthening for Malaria Prevention and Control (Comic Relief & GSK: Africa)
         * Monitoring, Evaluation and Learning Support to Grantees (Comic Relief: Africa) 
+        
   - title: Policy Analysis Consultant
-    company: International Migration Division, Organisation for Economic
-      Co-operation and Development (OECD)
+    company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
     company_url: https://www.oecd.org/migration/
     location: Paris, France
     date_start: 2010-10-01
     date_end: 2012-07-01
-      description: |2-
-      Key projects:
+    description: |2-
+        Key projects:
+      
        * Labour market integtation of migrants in Switzerland
        * Labour market integration of migrants in Austria
        * Labour migration management in Germany
+       
 widget_id: experience
 headless: true
 weight: 40
