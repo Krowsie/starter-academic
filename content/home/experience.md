@@ -10,6 +10,13 @@ experience:
     location: Toronto, ON
     date_start: 2020-04-01
     date_end: ""
+        description: |2-
+        Key projects:
+        
+        * A scoping review of reviews of instruments measuring functioning and HRQOL
+        * Latent Growth Analysis of Change Trajectories in Depressive Symptoms and Functional Impairment Following Psychotherapy for Depression
+        * International Network for Research Outcomes in Adolescent Depression Studies Ininitative (IN-ROADS; collaborator)
+        
   - title: Research Fellow (Contractor)
     company: International Consortium for Health Outcomes Measurement (ICHOM)
     company_url: https://www.ichom.org/
