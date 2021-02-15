@@ -27,6 +27,17 @@ experience:
     date_end: 2020-03-31
     description: Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
     
+  - title: PhD Candidate
+    company: Evidence Based Practice Unit, UCL & Anna Freud Centre
+    company_url: https://www.ucl.ac.uk/evidence-based-practice-unit/research/phd-projects
+    location: London, UK
+    date_start: 2016-10-01
+    date_end: 2020-03-31
+    description: |2-
+        * Thesis title: What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities
+        * Supervisors: Miranda Wolpert & Julian Edbrooke Childs
+        * Mixed methods
+    
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
     company_url: https://intdev.tetratechasiapacific.com/
