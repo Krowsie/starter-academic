@@ -15,7 +15,7 @@ experience:
         
         * A scoping review of reviews of instruments measuring functioning and HRQOL
         * Latent Growth Analysis of Change Trajectories in Depressive Symptoms and Functioning
-        * Assessing the face validity of functioning measures with youth from low- and middle-income countries
+        * Assessing the face validity of functioning measures with youth from LMIC
         * International Network for Research Outcomes in Adolescent Depression Studies Ininitative (IN-ROADS; co-investigator)
         * Task Group for the Sustainability of Common Metrics
 
