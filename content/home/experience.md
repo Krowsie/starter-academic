@@ -15,7 +15,7 @@ experience:
         
         * A scoping review of reviews of instruments measuring functioning and HRQOL
         * Latent Growth Analysis of Change Trajectories in Depressive Symptoms and Functional Impairment Following Psychotherapy for Depression
-        * International Network for Research Outcomes in Adolescent Depression Studies Ininitative (IN-ROADS; collaborator)
+        * International Network for Research Outcomes in Adolescent Depression Studies Ininitative (IN-ROADS; co-investigator)
         * Task Group for the Sustainability of Common Metrics
         
   - title: Research Fellow (Contractor)
