@@ -14,7 +14,7 @@ experience:
         Key research interests:
         
         * Content validity, responsiveness, and cross-cultural validity of functioning & HRQOL scales
-        * Cross-sectional and longitudinal associations between symptom severity and functional impairment
+        * Cross-sectional and longitudinal associations between symptom severity and impairment
         * Core outcome set development for youth depression trials (IN-ROADS initative)
         * Sustainability of the common metrics agenda
         * Engaging youth in the appraisal of measurement instruments
