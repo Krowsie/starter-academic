@@ -36,11 +36,11 @@ experience:
     location: Paris, France
     date_start: 2010-10-01
     date_end: 2012-07-01
-    description: |2-
-    Key projects:
-    * Labour market integtation of migrants in Switzerland
-    * Labour market integration of migrants in Austria
-    * Labour migration management in Germany
+      description: |2-
+      Key projects:
+       * Labour market integtation of migrants in Switzerland
+       * Labour market integration of migrants in Austria
+       * Labour migration management in Germany
 widget_id: experience
 headless: true
 weight: 40
