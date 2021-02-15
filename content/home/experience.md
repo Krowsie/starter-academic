@@ -11,14 +11,13 @@ experience:
     date_start: 2020-04-01
     date_end: ""
     description: |2-
-        Key projects:
+        Key research interests:
         
-        * A scoping review of reviews of instruments measuring functioning and HRQOL
-        * Latent Growth Analysis of Change Trajectories in Depressive Symptoms and Functioning
-        * Assessing the face validity of functioning measures with youth from LMIC
-        * International Network for Research Outcomes in Adolescent Depression Studies Ininitative (IN-ROADS; co-investigator)
-        * Task Group for the Sustainability of Common Metrics
-
+        * Content validity, responsiveness, and cross-cultural validity of functioning & HRQOL scales
+        * Cross-sectional and longitudinal associations between symptom severity and functional impairment
+        * Core outcome set development for youth depression trials (IN-ROADS initative)
+        * Sustainability of the common metrics agenda
+        * Engaging youth in the appraisal of measurement instruments
         
   - title: Research Fellow (Contractor)
     company: International Consortium for Health Outcomes Measurement (ICHOM)
