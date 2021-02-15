@@ -1,6 +1,7 @@
 ---
 title: What is a Good Outcome of Treatment for Adolescent Depression? A
   Mixed-Methods Exploration of Measurement, Concepts, and Priorities
+subtitle: (Doctoral Thesis)
 publication_types:
   - "6"
 authors:
