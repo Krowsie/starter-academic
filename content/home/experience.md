@@ -16,7 +16,7 @@ experience:
     location: London, UK
     date_start: 2018-10-01
     date_end: 2020-03-31
-    description: * Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
+    description: Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
     
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
