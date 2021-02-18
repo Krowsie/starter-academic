@@ -19,14 +19,14 @@ experience:
         * Sustainability of the common metrics agenda
         * Engaging youth in the appraisal of measurement instruments
         
-  - title: Research Fellow (Contractor)
+  - title: Research Fellow: Standard Set of Outcomes for Child and Youth Anxiety and Depression
     company: International Consortium for Health Outcomes Measurement (ICHOM)
     company_url: https://www.ichom.org/
     location: London, UK
     date_start: 2018-10-01
     date_end: 2020-03-31
     description: |2-
-        I led research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
+        Key responsibilities:
         
         *Systematic review to identify outcomes and measurement instruments
         *Appraisal of instruments for feasibility and measurement properties
@@ -40,10 +40,8 @@ experience:
     date_start: 2016-10-01
     date_end: 2020-03-31
     description: |2-
-    
-        * Thesis title: "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities"
-        * Supervisors: Miranda Wolpert & Julian Edbrooke Childs
-        * Approach: Mixed methods
+        My thesis was entitled "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities", and was supervised by Miranda Wolpert & Julian Edbrooke Childs
+  
     
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
@@ -52,12 +50,13 @@ experience:
     date_start: 2012-12-01
     date_end: 2016-09-30
     description: |2-
-        I designed and implemented independent programme evaluations and built evaluation capacity on behalf of international donors:
-         
-         *Methodological focus: Quasi-experimental mixed-methods evaluations
-         *Thematic focus: Girls' education and empowerment; children & youth at risk
-         *Clients: UK Department for International Development (DFID), USAID, Comic Relief
-         *Regions: Eastern Africa, Southern Africa, Southern Asia
+        Key responsibilities:
+        
+        *Designed & implementation of independent programme evaluations         
+        *Methodological focus: Quasi-experimental mixed-methods evaluations
+        *Thematic focus: Girls' education and empowerment; children & youth at risk
+        *Clients: UK Department for International Development (DFID), USAID, Comic Relief
+        *Regions: Eastern Africa, Southern Africa, Southern Asia
 
   - title: Policy Analysis Consultant
     company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
