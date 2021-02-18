@@ -40,6 +40,7 @@ experience:
     date_start: 2016-10-01
     date_end: 2020-03-31
     description: |2-
+    
         * Thesis title: "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities"
         * Supervisors: Miranda Wolpert & Julian Edbrooke Childs
         * Approach: Mixed methods
