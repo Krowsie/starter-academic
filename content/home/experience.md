@@ -53,10 +53,10 @@ experience:
         Key responsibilities:
         
         *Design and implementation of programme evaluations         
-        *Methodological focus: Quasi-experimental mixed-methods evaluations
-        *Thematic focus: Girls' education and empowerment; children & youth at risk
-        *Clients: UK Department for International Development (DFID), USAID, Comic Relief
-        *Regions: Eastern Africa, Southern Africa, Southern Asia
+        *Methodological focus on quasi-experimental mixed-methods evaluations
+        *Thematic focus on girls' education and empowerment; children & youth at risk
+        *Clients included the UK Department for International Development (DFID), USAID, Comic Relief
+        *Regions included Eastern Africa, Southern Africa, Southern Asia
 
   - title: Policy Analysis Consultant
     company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
