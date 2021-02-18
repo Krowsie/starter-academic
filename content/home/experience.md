@@ -26,7 +26,7 @@ experience:
     date_start: 2018-10-01
     date_end: 2020-03-31
     description: |2-
-         I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
+        I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
         
         *Systematic review to identify outcomes and measurement instruments
         *Appraisal of instruments for feasibility and measurement properties
@@ -52,7 +52,7 @@ experience:
     date_start: 2012-12-01
     date_end: 2016-09-30
     description: |2-
-         I designed and implemented independent programme evaluations and built evaluation capacity on behalf of international donors:
+        I designed and implemented independent programme evaluations and built evaluation capacity on behalf of international donors:
          
          *Methodological focus: Quasi-experimental mixed-methods evaluations
          *Thematic focus: Girls' education and empowerment; children & youth at risk
@@ -66,7 +66,7 @@ experience:
     date_start: 2010-10-01
     date_end: 2012-07-01
     description: |2-
-     I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                            recommendations.
+        I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                            recommendations.
                   
 widget_id: experience
 headless: true
