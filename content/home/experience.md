@@ -14,7 +14,7 @@ experience:
         Key research interests:
         
         * Content validity, responsiveness, and cross-cultural validity of functioning & HRQOL scales
-        * Cross-sectional and longitudinal associations between symptom severity and impairment
+        * Longitudinal associations between symptom severity and impairment
         * Core outcome set development for youth depression trials (IN-ROADS initative)
         * Sustainability of the common metrics agenda
         * Engaging youth in the appraisal of measurement instruments
@@ -25,7 +25,13 @@ experience:
     location: London, UK
     date_start: 2018-10-01
     date_end: 2020-03-31
-    description: Development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression
+   description: |2-
+      I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
+      
+      *Systematic review to identify outcomes and measurement instruments
+      *Appraisal of instruments for feasibility and measurement properties
+      *Brief review of possible case-mix factors
+      *Reporting and dissemination
     
   - title: PhD Candidate
     company: Evidence Based Practice Unit, UCL & Anna Freud Centre
@@ -45,29 +51,22 @@ experience:
     date_start: 2012-12-01
     date_end: 2016-09-30
     description: |2-
-        Key projects:
-        
-        * Girls' Education Challeng Fund (DFID: Estern Africa & Southern Asia)
-        * SPRING Accelerator (DFID, USAID, AUSAID: Estern Africa & Southern Asia)
-        * Health Systems Strengthening for Malaria Prevention and Control (Comic Relief & GSK: Africa)
-        * Monitoring, Evaluation and Learning Support to Grantees (Comic Relief: Africa) 
-        * Growth and Employment in States Programme (DFID, World Bank: Nigeria)
-        
-  - title: Policy Analysis Consultant
+         I designed and implemented independent programme evaluations and built evaluation capacity on behalf of international donors:
+         
+         *Methodological focus: Quasi-experimental mixed-methods evaluations
+         *Thematic focus: Girls' education and empowerment; children & youth at risk
+         *Clients: UK Department for International Development (DFID), USAID, Comic Relief
+         *Regions: Eastern Africa, Southern Africa, Southern Asia
+
+    - title: Policy Analysis Consultant
     company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
     company_url: https://www.oecd.org/migration/
     location: Paris, France
     date_start: 2010-10-01
     date_end: 2012-07-01
     description: |2-
-        Key projects:
-      
-       * Socio-economic outcomes of the children of migrants
-       * Ethnic discrimination
-       * Labour market integtation of migrants in Austria & Switzerland
-       * Labour migration management in Germany
-       
-       
+        I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                     r         recommendations.
+                  
 widget_id: experience
 headless: true
 weight: 40
