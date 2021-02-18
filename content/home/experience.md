@@ -25,13 +25,13 @@ experience:
     location: London, UK
     date_start: 2018-10-01
     date_end: 2020-03-31
-   description: |2-
-      I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
-      
-      *Systematic review to identify outcomes and measurement instruments
-      *Appraisal of instruments for feasibility and measurement properties
-      *Brief review of possible case-mix factors
-      *Reporting and dissemination
+    description: |2-
+        I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
+        
+       *Systematic review to identify outcomes and measurement instruments
+       *Appraisal of instruments for feasibility and measurement properties
+       *Brief review of possible case-mix factors
+       *Reporting and dissemination
     
   - title: PhD Candidate
     company: Evidence Based Practice Unit, UCL & Anna Freud Centre
