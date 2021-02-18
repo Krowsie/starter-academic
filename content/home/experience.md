@@ -12,7 +12,7 @@ experience:
     date_end: ""
     description: |2-
         Key research interests:
-        * Content validity, responsiveness, and cross-cultural validity of functioning & HRQOL scales
+        * Content validity, responsiveness, and cross-cultural validity of functioning scales
         * Longitudinal associations between symptom severity and impairment
         * Core outcome set development
         * Sustainability of the common metrics agenda
@@ -26,11 +26,10 @@ experience:
     date_end: 2020-03-31
     description: |2-
         Key responsibilities:
-        
-        *Systematic review to identify outcomes and measurement instruments
-        *Appraisal of instruments for feasibility and measurement properties
-        *Brief review of possible case-mix factors
-        *Reporting and dissemination
+        * Systematic review to identify outcomes and measurement instruments
+        * Appraisal of instruments for feasibility and measurement properties
+        * Brief review of possible case-mix factors
+        * Reporting and dissemination
           
   - title: PhD Candidate
     company: Evidence Based Practice Unit, UCL & Anna Freud Centre
@@ -48,12 +47,11 @@ experience:
     date_end: 2016-09-30
     description: |2-
         Key responsibilities:
-        
-        *Design and implementation of programme evaluations         
-        *Methodological focus on quasi-experimental mixed-methods evaluations
-        *Thematic focus on girls' education and empowerment; children & youth at risk
-        *Clients included the UK Department for International Development (DFID), USAID, Comic Relief
-        *Regions included Eastern Africa, Southern Africa, Southern Asia
+        * Design and implementation of programme evaluations         
+        * Quasi-experimental mixed-methods evaluations
+        * Focus on girls' education and empowerment, and children & youth at risk
+        * Clients: UK Department for International Development (DFID), USAID, Comic Relief
+        * Regions: Eastern Africa, Southern Africa, Southern Asia
 
   - title: Policy Analysis Consultant
     company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
@@ -63,10 +61,9 @@ experience:
     date_end: 2012-07-01
     description: |2-
        Key responsibilities:
-          
-        *Led econometric analysis of the socio-economic outcomes of children of migrants
-        *Analysed natinal integration policies
-        *Formulated and presented policy recommendations
+        * Econometric analysis of the socio-economic outcomes of children of migrants
+        * Analysis of national integration policies
+        * Policy recommendations
                      
 
 widget_id: experience
