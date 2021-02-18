@@ -65,8 +65,7 @@ experience:
     location: Paris, France
     date_start: 2010-10-01
     date_end: 2012-07-01
-    description: |2-
-        I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                            recommendations.
+   
                   
 widget_id: experience
 headless: true
