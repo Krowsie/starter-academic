@@ -39,8 +39,7 @@ experience:
     location: London, UK
     date_start: 2016-10-01
     date_end: 2020-03-31
-    description: |2-
-        My thesis was entitled "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities", and was supervised by Miranda Wolpert & Julian Edbrooke Childs
+    description: My thesis was entitled "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities",     and was supervised by Miranda Wolpert & Julian Edbrooke Childs
   
     
   - title: Evaluation Consultant
