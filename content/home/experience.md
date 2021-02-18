@@ -66,7 +66,7 @@ experience:
     date_start: 2010-10-01
     date_end: 2012-07-01
     description: |2-
-      Key responsibilities:
+        Key responsibilities:
           
           *Led econometric analysis of the socio-economic outcomes of children of migrants
           *Analysed natinal integration policies
