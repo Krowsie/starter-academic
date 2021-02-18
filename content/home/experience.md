@@ -59,14 +59,7 @@ experience:
          *Clients: UK Department for International Development (DFID), USAID, Comic Relief
          *Regions: Eastern Africa, Southern Africa, Southern Asia
 
-    - title: Policy Analysis Consultant
-    company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
-    company_url: https://www.oecd.org/migration/
-    location: Paris, France
-    date_start: 2010-10-01
-    date_end: 2012-07-01
-    description: |2-
-        I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                            recommendations.
+
    
                   
 widget_id: experience
