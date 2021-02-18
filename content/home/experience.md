@@ -25,7 +25,13 @@ experience:
     location: London, UK
     date_start: 2018-10-01
     date_end: 2020-03-31
-
+    description: |2-
+        Key responsibilities:
+        
+        *Systematic review to identify outcomes and measurement instruments
+        *Appraisal of instruments for feasibility and measurement properties
+        *Brief review of possible case-mix factors
+        *Reporting and dissemination
           
   - title: PhD Candidate
     company: Evidence Based Practice Unit, UCL & Anna Freud Centre
@@ -33,7 +39,7 @@ experience:
     location: London, UK
     date_start: 2016-10-01
     date_end: 2020-03-31
-    description: My thesis was entitled "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities",     and was supervised by Miranda Wolpert & Julian Edbrooke Childs
+  
   
     
   - title: Evaluation Consultant
