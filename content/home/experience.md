@@ -47,8 +47,7 @@ experience:
     date_end: 2016-09-30
     description: |2-
         Key responsibilities:
-        * Design and implementation of programme evaluations         
-        * Quasi-experimental mixed-methods evaluations
+        * Quasi-experimental mixed-methods programme evaluations
         * Focus on girls' education and empowerment, and children & youth at risk
         * Clients: UK Department for International Development (DFID), USAID, Comic Relief
         * Regions: Eastern Africa, Southern Africa, Southern Asia
