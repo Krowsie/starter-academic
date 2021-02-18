@@ -27,6 +27,11 @@ experience:
     date_end: 2020-03-31
     description: |2-
         I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
+        
+        *Systematic review to identify outcomes and measurement instruments
+        *Appraisal of instruments for feasibility and measurement properties
+        *Brief review of possible case-mix factors
+        *Reporting and dissemination
           
   - title: PhD Candidate
     company: Evidence Based Practice Unit, UCL & Anna Freud Centre
@@ -60,8 +65,7 @@ experience:
     location: Paris, France
     date_start: 2010-10-01
     date_end: 2012-07-01
-    description: |2-
-        I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                     r         recommendations.
+    description: I led econometric analysis of the socio-economic outcomes of children of migrants, analysed natinal integration policies, and formulated policy                   recommendations.
                   
 widget_id: experience
 headless: true
