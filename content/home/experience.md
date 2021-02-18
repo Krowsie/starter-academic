@@ -27,12 +27,7 @@ experience:
     date_end: 2020-03-31
     description: |2-
         I led on research inputs into the development of a Standard Set of Outcomes for Child and Youth Anxiety and Depression:
-        
-       *Systematic review to identify outcomes and measurement instruments
-       *Appraisal of instruments for feasibility and measurement properties
-       *Brief review of possible case-mix factors
-       *Reporting and dissemination
-    
+          
   - title: PhD Candidate
     company: Evidence Based Practice Unit, UCL & Anna Freud Centre
     company_url: https://www.ucl.ac.uk/evidence-based-practice-unit/research/phd-projects
