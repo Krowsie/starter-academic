@@ -39,8 +39,7 @@ experience:
     location: London, UK
     date_start: 2016-10-01
     date_end: 2020-03-31
-    description: "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities", supervised by Miranda     Wolpert & Julian Edbrooke Childs
-  
+
     
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
