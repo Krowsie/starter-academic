@@ -62,7 +62,7 @@ experience:
        Key responsibilities:
         * Econometric analysis of the socio-economic outcomes of children of migrants
         * Analysis of national integration policies
-        * Policy recommendations
+        * Making policy recommendations
                      
 
 widget_id: experience
