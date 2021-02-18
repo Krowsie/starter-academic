@@ -48,6 +48,7 @@ experience:
     description: |2-
         Key responsibilities:
         * Quasi-experimental mixed-methods programme evaluations
+        * Building monitoring and evaluation capacity
         * Focus on girls' education and empowerment, and children & youth at risk
         * Clients: DFID, USAID, Comic Relief
         * Regions: Eastern Africa, Southern Africa, Southern Asia
