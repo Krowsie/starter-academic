@@ -15,7 +15,7 @@ experience:
         
         * Content validity, responsiveness, and cross-cultural validity of functioning & HRQOL scales
         * Longitudinal associations between symptom severity and impairment
-        * Core outcome set development for youth depression trials (IN-ROADS initative)
+        * Core outcome set development
         * Sustainability of the common metrics agenda
         * Engaging youth in the appraisal of measurement instruments
         
