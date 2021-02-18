@@ -12,7 +12,6 @@ experience:
     date_end: ""
     description: |2-
         Key research interests:
-        
         * Content validity, responsiveness, and cross-cultural validity of functioning & HRQOL scales
         * Longitudinal associations between symptom severity and impairment
         * Core outcome set development
@@ -40,9 +39,7 @@ experience:
     date_start: 2016-10-01
     date_end: 2020-03-31
     description: Thesis entitled "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities",           supervised by Miranda Wolpert & Julian Edbrooke Childs.
-  
-
-    
+      
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
     company_url: https://intdev.tetratechasiapacific.com/
