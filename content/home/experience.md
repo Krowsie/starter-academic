@@ -49,7 +49,7 @@ experience:
         Key responsibilities:
         * Quasi-experimental mixed-methods programme evaluations
         * Focus on girls' education and empowerment, and children & youth at risk
-        * Clients: UK Department for International Development (DFID), USAID, Comic Relief
+        * Clients: DFID, USAID, Comic Relief
         * Regions: Eastern Africa, Southern Africa, Southern Asia
 
   - title: Policy Analysis Consultant
