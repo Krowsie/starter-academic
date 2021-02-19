@@ -47,7 +47,8 @@ experience:
     description: |2-
         * Comic Relief/GSK: Fighting Malaria, Improving Health Partnership
         * Save the Children: Evaluation of the Coaching for Life Programme
-        * Countries: Ghana Jordan, Indonesia, Mozambique, Tanzania
+        * Network for Africa: Counselling Project for Survivors of the 1994 Genocide
+        * Countries: Ghana Jordan, Indonesia, Mozambique, Rwanda, Tanzania
         
   - title: Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
