@@ -42,10 +42,9 @@ experience:
   - title: Evaluation Consultant
     company: Independent
     location: London, UK
-    date_start: 2012-09-30
+    date_start: 2016-09-30
     date_end: 2020-03-31
     description: |2-
-        Key responsibilities:
         * Comic Relief/GSK: Fighting Malaria, Improving Health partnership (learning coordinator)
         * Save the Childre: Evaluation of the Coaching for Life Programme
         * Countries: Ghana Jordan, Indonesia, Mozambique, Tanzania
