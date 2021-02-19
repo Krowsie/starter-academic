@@ -45,7 +45,7 @@ experience:
     date_start: 2016-09-30
     date_end: 2020-03-31
     description: |2-
-        * Comic Relief/GSK: Fighting Malaria, Improving Health partnership (learning coordinator)
+        * Comic Relief/GSK: Fighting Malaria, Improving Health Partnership
         * Save the Childre: Evaluation of the Coaching for Life Programme
         * Countries: Ghana Jordan, Indonesia, Mozambique, Tanzania
         
