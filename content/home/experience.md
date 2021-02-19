@@ -46,7 +46,7 @@ experience:
     date_end: 2020-03-31
     description: |2-
         * Comic Relief/GSK: Fighting Malaria, Improving Health Partnership
-        * Save the Childre: Evaluation of the Coaching for Life Programme
+        * Save the Children: Evaluation of the Coaching for Life Programme
         * Countries: Ghana Jordan, Indonesia, Mozambique, Tanzania
         
   - title: Evaluation Consultant
