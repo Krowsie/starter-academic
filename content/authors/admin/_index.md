@@ -10,7 +10,7 @@ role: Post-Doctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Cundill Centre for Child and Youth Depression, Centre for Addiction and Mental Health, Toronto ON
+- name: Cundill Centre for Child and Youth Depression, Centre for Addiction and Mental Health
   url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
 
 # Short bio (displayed in user profile at end of posts)
