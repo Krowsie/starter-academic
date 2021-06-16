@@ -50,7 +50,7 @@ experience:
         * Network for Africa: Counselling Project for Survivors of the 1994 Genocide
         * Countries: Ghana Jordan, Indonesia, Mozambique, Rwanda, Tanzania
         
-  - title: Evaluation Consultant
+  - title: Programme Evaluation Consultant
     company: Tetra Tech International Development (formerly Coffey International)
     company_url: https://intdev.tetratechasiapacific.com/
     location: London, UK
