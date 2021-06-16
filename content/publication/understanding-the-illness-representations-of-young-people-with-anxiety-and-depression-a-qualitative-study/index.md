@@ -48,6 +48,11 @@ abstract: "Background: Many young people with anxiety or depression drop out of
   needs of young people. "
 draft: false
 featured: false
+links:
+  - icon: open-access
+    icon_pack: ai
+    name: Open Access
+    url: https://doi.org/10.1111/papt.12345
 image:
   filename: featured
   focal_point: Smart
