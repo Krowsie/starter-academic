@@ -31,16 +31,15 @@ abstract: Strategies for comparing routinely collected outcome data across
   needed to ensure fair and meaningful comparisons.
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-  
-  links:
+links:
   - icon: open-access
     icon_pack: ai
     name: Open Access
     url: https://doi.org/10.1007/s10578-021-01149-y
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
 
 date: 2021-02-22T09:37:00.000Z
 ---
