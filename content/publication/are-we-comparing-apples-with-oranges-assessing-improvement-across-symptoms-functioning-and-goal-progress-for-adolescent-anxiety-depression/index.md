@@ -35,5 +35,12 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
+  links:
+  - icon: open-access
+    icon_pack: ai
+    name: Open Access
+    url: https://doi.org/10.1007/s10578-021-01149-y
+
 date: 2021-02-22T09:37:00.000Z
 ---
