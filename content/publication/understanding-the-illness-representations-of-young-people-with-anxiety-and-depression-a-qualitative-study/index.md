@@ -49,16 +49,12 @@ abstract: "Background: Many young people with anxiety or depression drop out of
 draft: false
 featured: false
 tags:
-  - Illness perceptions
-  - Qualitative research
-  - Anxiety & Depression
-  - Adolescents
-  
+  - Illnessperceptions
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-06-16T20:20:23.852Z
+date: 2021-05-07T20:20:23.852Z
 links:
   - icon: open-access
     icon_pack: ai
