@@ -32,7 +32,11 @@ abstract: Strategies for comparing routinely collected outcome data across
 draft: false
 featured: false
 tags:
-  - Adolescents; Depression; Anxiety; Outcome; Functioning; Personalized measures
+  - Adolescents
+  - Depression & Anxiety
+  - Routinely collected data
+  - Functioning
+  - Goal-based outcomes
 image:
   filename: featured
   focal_point: Smart
