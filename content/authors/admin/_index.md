@@ -10,8 +10,8 @@ role: Post-Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Evidence Based Practice Unit, Faculty of Brain Sciences, University College London
-  url: https://www.ucl.ac.uk/evidence-based-practice-unit/
+- name: Cundill Centre for Child and Youth Depression, Centre for Addiction and Mental Health
+  url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on strengthening approaches to outcome measurement in child mental health, with a focus on functional impairment, and the development of core outcome sets for youth depression and anxiety. 
