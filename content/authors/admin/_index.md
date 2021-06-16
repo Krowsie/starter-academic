@@ -6,11 +6,11 @@ title: Karolin Krause
 superuser: true
 
 # Role/position/tagline
-role: Post-Doctoral Researcher
+role: Post-Doctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Cundill Centre for Child and Youth Depression, Centre for Addiction and Mental Health
+- name: Cundill Centre for Child and Youth Depression, Centre for Addiction and Mental Health, Toronto ON
   url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
 
 # Short bio (displayed in user profile at end of posts)
