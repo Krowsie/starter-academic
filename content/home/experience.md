@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Post-Doctoral Researcher (Contractor)
+  - title: Post-Doctoral Research Fellow
     company: Cundill Centre for Child and Youth Depression, Centre for Addiction and
       Mental Health
     company_url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
@@ -12,7 +12,7 @@ experience:
     date_end: ""
     description: |2-
         Key research interests:
-        * Content validity, responsiveness, and cross-cultural validity of functioning scales
+        * Content validity, responsiveness, and cross-cultural validity of measurement scales
         * Longitudinal associations between symptom severity and impairment
         * Core outcome set development
         * Sustainability of the common metrics agenda
