@@ -39,7 +39,7 @@ experience:
     date_end: 2020-03-31
     description: Thesis entitled "What is a Good Outcome of Treatment for Adolescent Depression? A Mixed-Methods Exploration of Measurement, Concepts, and Priorities",           supervised by Miranda Wolpert & Julian Edbrooke Childs.
       
-  - title: Evaluation Consultant
+  - title: Programme Evaluation Consultant
     company: Independent
     location: London, UK
     date_start: 2016-09-30
