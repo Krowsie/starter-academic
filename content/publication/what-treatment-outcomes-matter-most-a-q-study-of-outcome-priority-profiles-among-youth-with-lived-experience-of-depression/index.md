@@ -40,9 +40,9 @@ title: What Treatment Outcomes Matter Most? A Q-study of Outcome Priority
   Profiles Among Youth with Lived Experience of Depression
 featured: true
 image:
-  filename: new-summary-graph.jpg
+  filename: 0001.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2021-07-22T18:24:21.403Z
 url_slides: ""
 links:
