@@ -51,7 +51,7 @@ links:
 url_code: ""
 doi: https://doi.org/10.1007/s00787-021-01839-x
 tags:
-  - outcomes
+  - Outcome Priorities
   - Q-methdodology
 links:
   - icon: open-access
