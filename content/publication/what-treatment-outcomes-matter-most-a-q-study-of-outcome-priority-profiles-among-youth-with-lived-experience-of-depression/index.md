@@ -7,7 +7,7 @@ authors:
   - Holly Alice Bear
   - Ana Calderon
   - Miranda Wolpert
-publication: European Child & Adolescent Psychiatry
+publication: "*European Child & Adolescent Psychiatry*"
 abstract: "Interest in youth perspectives on what constitutes an important
   outcome in the treatment of depression has been growing, but limited attention
   has been given to heterogeneity in outcome priorities, and minority
@@ -40,9 +40,9 @@ title: What Treatment Outcomes Matter Most? A Q-study of Outcome Priority
   Profiles Among Youth with Lived Experience of Depression
 featured: true
 image:
-  filename: featured
+  filename: new-summary-graph.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2021-07-22T18:24:21.403Z
 url_slides: ""
 links:
