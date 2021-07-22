@@ -50,4 +50,12 @@ links:
     url: https://www.medrxiv.org/content/10.1101/2020.10.12.20210468v1
 url_code: ""
 doi: https://doi.org/10.1007/s00787-021-01839-x
+tags:
+  - outcomes
+  - Q-methdodology
+links:
+  - icon: open-access
+    icon_pack: ai
+    name: Open Access
+    url: https://link.springer.com/article/10.1007%2Fs00787-021-01839-x
 ---
