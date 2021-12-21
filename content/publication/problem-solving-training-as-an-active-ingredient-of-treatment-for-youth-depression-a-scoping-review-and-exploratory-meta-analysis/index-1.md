@@ -3,6 +3,18 @@ title: "Problem-solving training as an active ingredient of treatment for youth
   depression: a scoping review and exploratory meta-analysis"
 publication_types:
   - "2"
+authors:
+  - Karolin R Krause
+  - Darren B Courtney
+  - Benjamin WC Chan
+  - Sarah Bonato
+  - Madison Aitken
+  - Jacqueline Relihan
+  - Matthew Prebeg
+  - Karleigh Darnay
+  - Lisa D Hawke
+  - Priya Watson
+  - Peter Szatmari
 doi: https://doi.org/10.1186/s12888-021-03260-9
 publication: "*BMC Psychiatry*"
 draft: false
