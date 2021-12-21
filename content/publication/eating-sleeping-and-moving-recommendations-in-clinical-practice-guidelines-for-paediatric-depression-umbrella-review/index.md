@@ -3,6 +3,14 @@ title: "Eating, sleeping and moving recommendations in clinical practice
   guidelines for paediatric depression: umbrella review"
 publication_types:
   - "2"
+authors:
+  - Susan C Campisi
+  - Karolin R Krause
+  - Benjamin WC Chan
+  - Darren B Courtney
+  - Kathryn Bennett
+  - Daphne J Korczak
+  - Peter Szatmari
 doi: doi:10.1192/bjo.2021.1020
 publication: "*BJPsych Open*"
 abstract: >-
