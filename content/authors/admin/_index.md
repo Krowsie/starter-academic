@@ -7,8 +7,8 @@ bio: My research focuses on strengthening approaches to outcome measurement in
 interests:
   - Youth Depression
   - Outcome Measurement
+  - Program evaluation
   - Core Outcome Sets
-  - Functioning
   - Global Mental Health
   - Youth-Centred Care
 social:
