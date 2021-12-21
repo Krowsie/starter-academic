@@ -20,7 +20,15 @@ publication: "*BMC Psychiatry*"
 draft: false
 featured: false
 tags:
-  - Open Access
+  - review
+  - youth depression
+  - active ingredients
+  - problem solving
+links:
+  - icon: open-access
+    icon_pack: ai
+    name: Open Access
+    url: https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03260-9
 image:
   filename: featured
   focal_point: Smart
