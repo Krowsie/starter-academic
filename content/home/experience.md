@@ -56,13 +56,6 @@ experience:
     location: London, UK
     date_start: 2012-12-01
     date_end: 2016-09-30
-    description: |2-
-        Key responsibilities:
-        * Quasi-experimental mixed-methods programme evaluations
-        * Building monitoring and evaluation capacity
-        * Focus on girls' education and empowerment, and children & youth at risk
-        * Clients: DFID, USAID, Comic Relief
-        * Regions: Eastern Africa, Southern Africa, Southern Asia
 
   - title: Policy Analysis Consultant
     company: International Migration Division, Organisation for Economic Co-operation and Development (OECD)
@@ -70,11 +63,6 @@ experience:
     location: Paris, France
     date_start: 2010-10-01
     date_end: 2012-07-01
-    description: |2-
-       Key responsibilities:
-        * Econometric analysis of the socio-economic outcomes of children of migrants
-        * Analysis of national integration policies
-        * Making policy recommendations
                      
 
 widget_id: experience
