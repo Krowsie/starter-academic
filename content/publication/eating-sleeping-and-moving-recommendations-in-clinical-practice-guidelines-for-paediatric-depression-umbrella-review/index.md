@@ -33,7 +33,15 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - Review
+  - review
+  - clinical practice guidelines
+  - youth depression
+links:
+  - icon: open-access
+    icon_pack: ai
+    name: Open Access
+    url: https://www.cambridge.org/core/journals/bjpsych-open/article/eating-sleeping-and-moving-recommendations-in-clinical-practice-guidelines-for-paediatric-depression-umbrella-review/88201F922A65FF1C2F8E2CF66A62311A
+    
 image:
   filename: featured
   focal_point: Smart
