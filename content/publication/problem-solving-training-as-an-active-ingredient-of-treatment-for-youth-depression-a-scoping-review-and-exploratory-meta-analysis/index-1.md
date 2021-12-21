@@ -4,7 +4,7 @@ title: "Problem-solving training as an active ingredient of treatment for youth
 publication_types:
   - "2"
 doi: https://doi.org/10.1186/s12888-021-03260-9
-publication: BMC Psychiatry
+publication: "*BMC Psychiatry*"
 draft: false
 featured: false
 tags:
