@@ -10,7 +10,7 @@ authors:
   - Peter Szatmari
   - Miranda Wolpert
 doi: https://doi.org/10.1016/S2215-0366(21)00122-X
-publication: The Lancet Psychiatry
+publication: "*The Lancet Psychiatry*"
 abstract: Mental health research grapples with research waste and stunted field
   progression caused by inconsistent outcome measurement across studies and
   clinical settings, which means there is no common language for considering
