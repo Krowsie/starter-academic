@@ -3,19 +3,30 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Post-Doctoral Researcher
+    company: Université Paris Cité, Centre of Research in Epidemiology and StatisticS (CRESS UMR 1153)
+    company_url: https://clinicalepidemio.fr
+    location: Paris, France
+    date_start: 2023-04-01
+    date_end: ""
+    description: |2-
+        Key research interests:
+        * Personalized medicine
+        * Personomic markers of treatment engagement and effectiveness
+    
   - title: Post-Doctoral Research Fellow
     company: Cundill Centre for Child and Youth Depression, Centre for Addiction and
       Mental Health
     company_url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
     location: Toronto, ON
     date_start: 2020-04-01
-    date_end: ""
+    date_end: 2023-03-31
     description: |2-
         Key research interests:
-        * Content validity, responsiveness, and cross-cultural validity of measurement scales
-        * Longitudinal associations between symptom severity and impairment
+        * Measurement of "life impact" in youth mental health
+        * Content validity of scales to measure youth functional impairment
+        * Estimating thresholds of minimally important change
         * Core outcome set development
-        * Sustainability of the common metrics agenda
         * Engaging youth in the appraisal of measurement instruments
         
   - title: Research Fellow for Standard Set of Outcomes for Child and Youth Anxiety and Depression
