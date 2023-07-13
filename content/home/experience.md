@@ -26,7 +26,6 @@ experience:
         * Measurement of "life impact" in youth mental health
         * Content validity of scales to measure youth functional impairment
         * Estimating thresholds of minimally important change
-        * Core outcome set development
         * Engaging youth in the appraisal of measurement instruments
         
   - title: Research Fellow for Standard Set of Outcomes for Child and Youth Anxiety and Depression
