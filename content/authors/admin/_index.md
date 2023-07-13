@@ -1,16 +1,14 @@
 ---
 title: Karolin Krause
-role: Post-Doctoral Research Fellow
-bio: My research focuses on strengthening approaches to outcome measurement in
-  child mental health, with a focus on functional impairment, and the
-  development of core outcome sets for youth depression and anxiety.
+role: Post-Doctoral Researcher
+bio: My current work focuses on bringing the person as a whole back into personalized medicine. Using mixed methods and an interdisciplinary approach, I explore avenues for incorporating patients’ psychosocial characteristics (“personomics”) into the tailoring of treatment plans, to move beyond personalized medicine’s current focus on biological markers towards a more holistic approach to personalization. Previously, my research has focused on strengthening approaches to outcome measurement in youth mental health, with a focus on functional impairment, and the development of core outcome sets for youth depression and anxiety.
 interests:
-  - Youth Depression
-  - Outcome Measurement
-  - Program evaluation
+  - Personalized medicine
+  - Outcomes measurement
+  - Mixed-methods research
   - Core Outcome Sets
-  - Global Mental Health
-  - Youth-Centred Care
+  - Youth mental health
+  - Patient engagement
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,9 +29,8 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0003-3914-7272
 organizations:
-  - name: Cundill Centre for Child and Youth Depression, Centre for Addiction and
-      Mental Health, Toronto
-    url: https://www.camh.ca/en/science-and-research/institutes-and-centres/cundill-centre-for-child-and-youth-depression
+  - name: Université Paris Cité, Centre of Research in Epidemiology and StatisticS (CRESS UMR 1153), Paris, France
+    url: https://clinicalepidemio.fr 
 education:
   courses:
     - course: PhD in Psychology
@@ -49,4 +46,4 @@ email: false
 superuser: true
 highlight_name: true
 ---
-I am a post-doctoral research fellow with the Cundill Centre for Child and Youth Depression at the Centre for Addiction and Mental Health in Toronto, and an honorary fellow with the Research Department of Clinical, Educational and Health Psychology at University College London. My research focuses on strengthening outcome measurement in youth mental health, with a focus on consistency, youth-centeredness, and the assessment of functional impairment. I like to use mixed methods and am interested in global perspectives on mental health.
+I am a post-doctoral researcher with the Methods Team at the Centre of Research in Epidemiology and StatisticS (CRESS UMR 1153) in Paris (France) where my work focuses on bringing the person as a whole back into personalized medicine. Using mixed methods and an interdisciplinary approach, I explore avenues for incorporating patients’ psychosocial characteristics (“personomics”) into the tailoring of treatment plans, to move beyond personalized medicine’s current focus on biological markers towards a more holistic approach to personalization. I also complete postdoctoral research with the Cundill Centre for Child and Youth Depression at the Centre for Addiction and Mental Health (CAMH), where I focus on strengthening approaches to outcome measurement in youth mental health, with a focus on functional impairment and the development of core outcome sets for youth depression and anxiety.
