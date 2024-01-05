@@ -10,4 +10,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+links:
+- url: https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-022-01994-5
+  name: Study Protocol
 ---
