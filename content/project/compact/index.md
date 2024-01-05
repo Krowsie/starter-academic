@@ -1,6 +1,6 @@
 ---
-title: COMPACT: Core Outcomes and Measures in Paediatric Anxiety Clinical Trials
-subtitle: 
+title: COMPACT - Core Outcomes and Measures in Paediatric Anxiety Clinical Trials
+subtitle: ""
 date: 2024-01-05T12:24:47.624Z
 summary: This project plans to develop, an evidence- and consensus-based COS for
   pediatric anxiety disorder trials with active engagement of youth and family
