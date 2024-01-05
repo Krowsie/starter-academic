@@ -1,7 +1,7 @@
 ---
 title: Evaluating DFID’s Girls’ Education Challenge Fund (2012-16)
 date: 2016-01-09T11:16:00.000Z
-draft: false
+draft: true
 featured: false
 external_link: https://coffey.com/en/our-projects/evaluating-dfids-girls-education-challenge-fund/
 links:
