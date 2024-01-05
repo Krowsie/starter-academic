@@ -3,7 +3,7 @@ title: "A comprehensive mapping of outcomes following psychotherapy for
   adolescent depression: The perspectives of young people, their parents and
   therapists"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Krause
   - Nick Midgley
