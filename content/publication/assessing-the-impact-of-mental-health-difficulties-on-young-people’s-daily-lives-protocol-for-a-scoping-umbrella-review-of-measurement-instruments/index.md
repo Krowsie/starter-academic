@@ -12,7 +12,7 @@ authors:
   - Nancy J Butcher
   - Peter Szatmari
 doi: https://doi.org/10.1136/bmjopen-2021-054679
-publication: '*BMJ Open"'
+publication: "*BMJ Open*, Vol.12:e054679"
 abstract: "An important consideration for determining the severity of mental
   health symptoms is their impact on youth’s daily lives. Those wishing to
   assess ‘life impact’ face several challenges: First, various measurement
