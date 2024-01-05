@@ -2,7 +2,7 @@
 title: "E-cohort ComPaRe Dépression "
 date: 2024-01-03T13:36:22.109Z
 draft: false
-featured: false
+featured: true
 authors:
   - "Role: Steering group member (PI: Prof P Ravaud, Dr VT Tran, Dr A Chevance,
     CRESS, France)"
