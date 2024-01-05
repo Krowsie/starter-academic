@@ -1,10 +1,10 @@
 ---
 widget: pages
-widget_id: other publications
+widget_id: Peer-reviewed-first-author
 headless: true
 weight: 55
-title: Key Publications
-subtitle: Peer-reviewed Journal Articles
+title: Peer-reviewed publications
+subtitle: First author
 content:
   page_type: publication
   count: 10
