@@ -1,7 +1,7 @@
 ---
 title: Essential but Neglected - Strengthening the Measurement of Functional
   Impairment Associated with Common Youth Mental Health Challenges
-subtitle: "Role: PI"
+subtitle: ""
 date: 2024-01-05T12:26:56.915Z
 draft: false
 featured: false
