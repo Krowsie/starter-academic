@@ -1,5 +1,5 @@
 ---
-title: PRISMA-COSMIN guideline
+title: PRISMA-COSMIN for Outcome Measurement Instruments
 date: 2024-01-02T13:32:11.041Z
 draft: false
 featured: false
