@@ -2,7 +2,7 @@
 title: "Review: What Outcomes Count? A Review of Outcomes Measured for
   Adolescent Depression Between 2007 and 2017"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Rose Krause
   - Holly Alice Bear
