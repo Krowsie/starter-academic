@@ -4,10 +4,20 @@ title: "Paper II: thematic framework analysis of registry-based randomized
 publication_types:
   - "2"
 authors:
-  - Karolin Rose Krause; Joanne Tay; William A Douglas; Adrian Sammy; Ami Baba;
-    Katherine Goren; Brett D Thombs; Alison H Howie; Maryam Oskoui; Ole Frøbert;
-    Yannis Trakadis; Julian Little; Beth K Potter; Nancy J Butcher; Martin
-    Offringa
+  - Karolin R Krause
+  - Joanne Tay
+  - William A Douglas
+  - Adrian Sammy
+  - Ami Baba
+  - Katherine Goren; Brett D Thombs
+  - Alison H Howie
+  - Maryam Oskoui
+  - Ole Frøbert
+  - Yannis Trakadis
+  - Julian Little
+  - Beth K Potter
+  - Nancy J Butcher
+  - Martin Offringa
 doi: https://doi.org/10.1016/j.jclinepi.2023.04.015
 publication: "*Journal of Clinical Epidemiology*"
 abstract: Registry-based randomized controlled trials (RRCTs) are increasingly
