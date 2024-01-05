@@ -2,7 +2,7 @@
 title: "Core outcome set development for adolescent major depressive disorder
   clinical trials: a registered report"
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Suneeta Monga
   - Andrea Monsour
