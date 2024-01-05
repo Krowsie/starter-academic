@@ -2,7 +2,7 @@
 title: "Thriving in the face of severe adversity: Understanding and fostering
   resilience in children affected by war and displacement"
 publication_types:
-  - "6"
+  - "3"
 authors: 
  - Karolin Krause
  - Evelyn Sharples
