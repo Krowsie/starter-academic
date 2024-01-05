@@ -1,6 +1,6 @@
 ---
 title: "Systematic Review: The Measurement Properties of the Suicidal Ideation
-  Questionnaire and Suicidal Ideation Questionnaire-Jr."
+  Questionnaire and Suicidal Ideation Questionnaire-Jr"
 publication_types:
   - "0"
   - "2"
