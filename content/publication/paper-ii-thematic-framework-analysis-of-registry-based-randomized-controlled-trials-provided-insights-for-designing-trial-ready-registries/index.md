@@ -2,7 +2,7 @@
 title: "Paper II: thematic framework analysis of registry-based randomized
   controlled trials provided insights for designing trial ready registries"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin R Krause
   - Joanne Tay
