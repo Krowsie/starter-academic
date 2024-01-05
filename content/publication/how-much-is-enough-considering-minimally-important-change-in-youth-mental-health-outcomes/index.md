@@ -14,6 +14,7 @@ authors:
   - Joanna Henderson
   - Peter Szatmari
 doi: https://doi.org/10.1016/S2215-0366(22)00338-8
+publication: "*The Lancet Psychiatry*, Vol. 9(12), 123-137"
 abstract: To make decisions in mental health care, service users, clinicians,
   and administrators need to make sense of research findings. Unfortunately,
   study results are often presented as raw questionnaire scores at different
