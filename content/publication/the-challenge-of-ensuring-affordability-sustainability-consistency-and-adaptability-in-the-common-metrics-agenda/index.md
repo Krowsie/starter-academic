@@ -2,7 +2,7 @@
 title: The challenge of ensuring affordability, sustainability, consistency, and
   adaptability in the common metrics agenda
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Rose Krause
   - Sophie Chung
