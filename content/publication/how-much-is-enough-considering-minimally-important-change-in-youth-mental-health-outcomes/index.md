@@ -2,7 +2,7 @@
 title: How much is enough? Considering minimally important change in youth
   mental health outcomes
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin R Krause
   - Sarah E Hetrick
