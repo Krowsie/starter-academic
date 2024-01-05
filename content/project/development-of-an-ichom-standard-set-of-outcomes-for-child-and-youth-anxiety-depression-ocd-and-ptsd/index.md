@@ -4,6 +4,8 @@ subtitle: Research Fellow
 date: 2020-03-31T15:28:34.646Z
 draft: false
 featured: true
+authors:
+  - "Role: Research Fellow"
 tags: []
 external_link: https://www.ichom.org/portfolio/anxiety-depression-ocd-and-ptsd-in-children-and-young-people/
 
