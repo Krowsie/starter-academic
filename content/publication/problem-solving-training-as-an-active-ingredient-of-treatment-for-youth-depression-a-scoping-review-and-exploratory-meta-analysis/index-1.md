@@ -2,7 +2,7 @@
 title: "Problem-solving training as an active ingredient of treatment for youth
   depression: a scoping review and exploratory meta-analysis"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin R Krause
   - Darren B Courtney
