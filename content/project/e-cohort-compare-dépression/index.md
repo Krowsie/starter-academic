@@ -7,7 +7,7 @@ authors:
   - Role:Steerin ggroup member (PI: Prof P Ravau, Dr VT Tran, Dr A Chevance, CRESS, France)
 external_link: https://compare.aphp.fr/depression/
 image:
-  filename: https://compare.aphp.fr/depression/
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
