@@ -3,7 +3,7 @@ title: International consensus on a standard set of outcome measures for child
   and youth anxiety, depression, obsessive-compulsive disorder, and
   post-traumatic stress disorder
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin R. Krause
   - Sophie Chung
