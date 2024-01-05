@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications-collaborations
 headless: true
 weight: 57
-title: Peer-reviewed 
+title: Peer-reviewed publications
 subtitle: Collaborations
 active: true
 content:
