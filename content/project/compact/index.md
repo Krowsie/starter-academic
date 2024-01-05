@@ -12,7 +12,7 @@ summary: This project plans to develop, an evidence- and consensus-based COS for
 draft: false
 featured: false
 authors:
-  - "Role: Co-I (PI: Dr Suneeta Monga, Hospital for Sick Children, Toronto)"
+  - "Role: Co-I (PI: Dr Suneeta Monga, Hospital for Sick Children, Canada)"
 external_link: https://www.compactinitiative.com/
 image:
   filename: featured
