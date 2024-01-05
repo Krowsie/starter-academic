@@ -3,7 +3,7 @@ widget: pages
 widget_id: other publications
 headless: true
 weight: 55
-title: Other Publications
+title: Key Publications
 subtitle: Peer-reviewed Journal Articles
 content:
   page_type: publication
