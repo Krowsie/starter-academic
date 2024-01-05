@@ -2,7 +2,7 @@
 title: Are We Comparing Apples with Oranges? Assessing Improvement Across
   Symptoms, Functioning, and Goal Progress for Adolescent Anxiety and Depression
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Rose Krause
   - Julian Edbrooke-Childs
