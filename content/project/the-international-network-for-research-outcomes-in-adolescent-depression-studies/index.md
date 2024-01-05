@@ -1,5 +1,5 @@
 ---
-title: The International Network for Research Outcomes in Adolescent Depression Studies (IN-ROADS)
+title: IN-ROADS - International Network for Research Outcomes in Adolescent Depression Studies
 subtitle: Co-Investigator
 date: 2021-02-02T15:32:38.137Z
 draft: false
