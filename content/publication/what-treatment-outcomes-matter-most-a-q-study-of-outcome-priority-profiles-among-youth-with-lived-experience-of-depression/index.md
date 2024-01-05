@@ -1,61 +1,34 @@
 ---
+title: "Paper II: thematic framework analysis of registry-based randomized
+  controlled trials  provided insights for designing trial ready registries"
 publication_types:
   - "2"
 authors:
-  - Karolin Rose Krause
-  - Julian Edbrooke-Childs
-  - Holly Alice Bear
-  - Ana Calderon
-  - Miranda Wolpert
-publication: "*European Child & Adolescent Psychiatry*"
-abstract: "Interest in youth perspectives on what constitutes an important
-  outcome in the treatment of depression has been growing, but limited attention
-  has been given to heterogeneity in outcome priorities, and minority
-  viewpoints. These are important to consider for person-centred outcome
-  tracking in clinical practice, or when conducting clinical trials targeting
-  specific populations. This study used Q-methodology to identify outcome
-  priority profiles among youth with lived experience of service use for
-  depression. A purposive sample of 28 youth (aged 16–21 years) rank-ordered 35
-  outcome statements by importance and completed brief semi-structured
-  interviews eliciting their sorting rationales. By-person principal component
-  analysis was used to identify outcome priority profiles based on all Q-sort
-  configurations. Priority profiles were described and interpreted with
-  reference to the qualitative interview data. Four distinct outcome priority
-  profiles were identified: “Relieving distress and experiencing a happier
-  emotional state”; “Learning to cope with cyclical distressing emotional
-  states”; “Understanding and processing distressing emotional states”; and
-  “Reduced interference of ongoing distressing emotional states with daily
-  life”. All four profiles prioritized improvements in mood and the ability to
-  feel pleasure but differed in the level of importance assigned to learning
-  coping skills, processing experiences, and the reduced interference of
-  depression with life and identity. As part of a person-centered approach to
-  care delivery, care providers should routinely engage young people in
-  conversation and shared decision-making about the types of change they would
-  like to prioritize and track during treatment, beyond a common core of
-  consensus outcomes."
-draft: false
-url_pdf: ""
-url_video: ""
-title: What Treatment Outcomes Matter Most? A Q-study of Outcome Priority
-  Profiles Among Youth with Lived Experience of Depression
-featured: true
-image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: false
-date: 2021-07-22T18:24:21.403Z
-url_slides: ""
-links:
-  - name: Preprint
-    url: https://www.medrxiv.org/content/10.1101/2020.10.12.20210468v1
-url_code: ""
-doi: https://doi.org/10.1007/s00787-021-01839-x
+  - Karolin Rose Krause; Joanne Tay; William A Douglas; Adrian Sammy; Ami Baba;
+    Katherine Goren; Brett D Thombs; Alison H Howie; Maryam Oskoui; Ole Frøbert;
+    Yannis Trakadis; Julian Little; Beth K Potter; Nancy J Butcher; Martin
+    Offringa
+doi: https://doi.org/10.1016/j.jclinepi.2023.04.015
+publication: "*Journal of Clinical Epidemiology*"
+abstract: Registry-based randomized controlled trials (RRCTs) are increasingly
+  used, promising to address challenges associated with traditional randomized
+  controlled trials. We identified strengths and limitations reported in planned
+  and completed RRCTs to inform future RRCTs. We conducted an environmental scan
+  of literature discussing conceptual or methodological strengths and
+  limitations of using registries for trial design and conduct (n = 12),
+  followed by an analysis of RRCT protocols (n = 13) and reports (n = 77)
+  identified from a scoping review. Using framework analysis, we developed and
+  refined a conceptual framework of RRCT-specific strengths and limitations. We
+  mapped and interpreted strengths and limitations discussed by authors of RRCT
+  articles using framework codes and quantified the frequencies at which these
+  were mentioned. Our conceptual framework identified six main RRCT strengths
+  and four main RRCT limitations. Considering implications for RRCT conduct and
+  design, we formulated ten recommendations for registry designers,
+  administrators, and trialists planning future RRCTs.  Consideration and
+  application of empirically underpinned recommendations for future registry
+  design and trial conduct may help trialists utilize registries and RRCTs to
+  their full potential.
 tags:
-  - Outcome Priorities
-  - Q-methdodology
-links:
-  - icon: open-access
-    icon_pack: ai
-    name: Open Access
-    url: https://link.springer.com/article/10.1007%2Fs00787-021-01839-x
+  - registry-based trials; framework analysis
+date: 2023-07-01T09:58:36.128Z
 ---
