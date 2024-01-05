@@ -1,7 +1,7 @@
 ---
 title: The labour market integration of immigrants and their children in Switzerland
 publication_types:
-  - "3"
+  - "4"
 authors:
   - Thomas Liebig
   - Sebastian Kohls
