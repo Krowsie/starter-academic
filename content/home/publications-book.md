@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications-book
 headless: true
 weight: 57
-title: Key Publications
+title: Other Publications
 subtitle: Book Chapters & Dissertations
 active: true
 content:
