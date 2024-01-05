@@ -18,4 +18,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+links:
+- url: https://www.jaacap.org/article/S0890-8567(23)00064-3/fulltext
+  name: Study Protocol
+  
+- url: https://bmjopen.bmj.com/content/12/10/e063404.abstract
+  name: Scoping Review Protocol
 ---
