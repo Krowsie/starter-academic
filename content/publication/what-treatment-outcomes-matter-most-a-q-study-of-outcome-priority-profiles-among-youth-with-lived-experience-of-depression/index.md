@@ -2,7 +2,7 @@
 title: What treatment outcomes matter most? A Q-study of outcome priority
   profiles among youth with lived experience of depression
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Rose Krause
   - Julian Edbrooke-Childs
