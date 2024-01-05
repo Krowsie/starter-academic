@@ -20,7 +20,7 @@ authors:
   - Nancy J Butcher
   - Martin Offringa
 doi: https://doi.org/10.1016/j.jclinepi.2023.04.016
-publication: "*Journal of Clinical Epidemiology*"
+publication: "*Journal of Clinical Epidemiology*, 159:289-299"
 abstract: Registry-based randomized controlled trials (RRCTs) have potential to
   address limitations of traditional clinical trials. To describe their current
   use, information on planned and published RRCTs was identified and
@@ -45,5 +45,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-07-01T11:13:35.856Z
+date: 2023-05-03T11:13:35.856Z
 ---
