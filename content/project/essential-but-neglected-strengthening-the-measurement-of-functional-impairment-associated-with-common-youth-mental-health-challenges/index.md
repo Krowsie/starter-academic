@@ -6,7 +6,7 @@ date: 2024-01-05T12:26:56.915Z
 draft: false
 featured: false
 authors:
-  - "Role: PI"
+  - "Role: Aim Clinical Science Fellow Grantee"
 external_link: https://aimymh.org/karolin-krause/
 links: []
 image:
