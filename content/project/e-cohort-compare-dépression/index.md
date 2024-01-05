@@ -10,5 +10,5 @@ external_link: https://compare.aphp.fr/depression/
 image:
   filename: https://compare.aphp.fr/wp-content/uploads/2019/02/compare-250.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
