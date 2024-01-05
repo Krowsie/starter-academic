@@ -1,7 +1,7 @@
 ---
 title: Karolin Krause
 role: Post-Doctoral Researcher
-bio: My current work focuses on bringing the "personal" into personalized medicine: Using mixed methods and an interdisciplinary approach, I explore avenues for incorporating patients’ psychosocial and contextual characteristics (“personomics”) into the tailoring of treatment plans, moving beyond the current focus on biological markers. Previously, my research has focused on strengthening approaches to outcome measurement in youth mental health, with a focus on functional impairment, and the development of core outcome sets for youth depression and anxiety.
+bio: My current work focuses on bringing the 'personal' into personalized medicine: Using mixed methods and an interdisciplinary approach, I explore avenues for incorporating patients’ psychosocial and contextual characteristics (“personomics”) into the tailoring of treatment plans, moving beyond the current focus on biological markers. Previously, my research has focused on strengthening approaches to outcome measurement in youth mental health, with a focus on functional impairment, and the development of core outcome sets for youth depression and anxiety.
 interests:
   - Personalized medicine
   - Outcomes measurement
