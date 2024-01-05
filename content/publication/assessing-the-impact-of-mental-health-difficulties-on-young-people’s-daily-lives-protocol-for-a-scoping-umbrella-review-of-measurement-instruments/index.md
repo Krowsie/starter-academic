@@ -3,7 +3,7 @@ title: "Assessing the impact of mental health difficulties on young people’s
   daily lives: Protocol for a scoping umbrella review of measurement
   instruments"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Rose Krause
   - Sophie Chung
