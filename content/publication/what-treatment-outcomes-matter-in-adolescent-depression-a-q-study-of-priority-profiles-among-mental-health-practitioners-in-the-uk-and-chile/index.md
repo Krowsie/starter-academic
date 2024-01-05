@@ -2,7 +2,7 @@
 title: What treatment outcomes matter in adolescent depression? A Q-study of
   priority profiles among mental health practitioners in the UK and Chile
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Karolin Rose Krause
   - Ana Calderón
